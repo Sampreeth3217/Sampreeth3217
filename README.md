@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sampreeth Nimmagadda</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"🎨 Designer by Passion, 👨‍💻 Engineer by Trade, 🚀 Innovator at Heart."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampreeth3217&label=Profile%20views&color=0e75b6&style=flat" alt="sampreeth3217" /> </p>
 
