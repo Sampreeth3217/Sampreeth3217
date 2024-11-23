@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Statesman - A Job portal**
 
-- 👨‍💻 All of my projects are available at [Sampreeth3217.github.io](Sampreeth3217.github.io)
+- 👨‍💻 All of my projects are available at [Sampreeth3217.github.io](sampreeth3217.github.io)
 
 - 💬 Ask me about **Fullstack Development and IoT**
 
 - 📫 How to reach me **nschowdary1234@gmail.com**
 
-- 📄 Know about my experiences [Sampreeth3217.github.io](Sampreeth3217.github.io)
+- 📄 Know about my experiences [Sampreeth3217.github.io](sampreeth3217.github.io)
 
 - ⚡ Fun fact **I'm an excellent Organizer**
 
